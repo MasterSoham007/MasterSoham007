@@ -28,7 +28,6 @@
 <a href="https://instagram.com/sarcastic_soham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarcastic_soham" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sohamgoswami55" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sohamgoswami55" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sohamgoswami55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sohamgoswami55" height="30" width="40" /></a>
-<a href="[https://www.leetcode.com/https://leetcode.com/soham_goswami007/](https://leetcode.com/Soham_Goswami007/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/soham_goswami007/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sohamgoswami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sohamgoswami" height="30" width="40" /></a>
 </p>
 
