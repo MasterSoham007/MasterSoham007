@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mastersoham007" alt="mastersoham007" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@sohamgo51359650" target="blank"><img src="https://img.shields.io/twitter/follow/@sohamgo51359650?logo=twitter&style=for-the-badge" alt="@sohamgo51359650" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@sohamgo51359650" target="@sohamgo51359650"><img src="https://img.shields.io/twitter/follow/@sohamgo51359650?logo=twitter&style=for-the-badge" alt="@sohamgo51359650" /></a> </p>
 
 <br>
 <img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
