@@ -9,7 +9,7 @@
 <div align="center" class="entry">
   <h1><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
-         width="50" /> <span class="animate-letters">Hi, I am Soham Goswami 😀</span></h1>
+         width="50" /> Hi, I am Soham Goswami 😀</h1>
   <h2>An Artificial Intelligence and Machine Learning Undergrad from India 🇮🇳</h2>
 </div>
 
@@ -18,21 +18,11 @@
     0% { opacity: 0; transform: translateY(-50px); }
     100% { opacity: 1; transform: translateY(0); }
   }
-  @keyframes letterAnimation {
-    0% { opacity: 0; transform: translateY(20px); }
-    100% { opacity: 1; transform: translateY(0); }
-  }
   .entry {
     animation: entryAnimation 1s ease forwards;
   }
-  .animate-letters::before {
-    content: attr(data-text);
-    display: inline-block;
-    opacity: 0;
-    animation: letterAnimation 0.5s ease forwards;
-    animation-delay: calc(0.1s * var(--i));
-  }
 </style>
+
 
 
 <div style="border: 2px solid black; padding: 10px; margin: 20px;">
