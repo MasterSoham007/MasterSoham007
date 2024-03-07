@@ -45,17 +45,15 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-92-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-86-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-52.2%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-53.1%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 108.3 kB Used in GitHub's Storage 
  > 
-> 🏆 106 Contributions in the Year 2024
+> 🏆 115 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -63,45 +61,6 @@
  > 
 > 🔑 3 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-🌆 Daytime                62 commits          ████████░░░░░░░░░░░░░░░░░   32.29 % 
-🌃 Evening                51 commits          ███████░░░░░░░░░░░░░░░░░░   26.56 % 
-🌙 Night                  53 commits          ███████░░░░░░░░░░░░░░░░░░   27.60 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   38 commits          █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
-Tuesday                  26 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-Wednesday                58 commits          ████████░░░░░░░░░░░░░░░░░   30.21 % 
-Thursday                 34 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
-Friday                   17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
-Saturday                 12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Sunday                   7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in HTML** 
 
 ```text
@@ -119,7 +78,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MasterSoham007/MasterSoham007/main/assets/bar_graph.png)
 
 
- Last Updated on 07/03/2024 15:15:48 UTC
+ Last Updated on 07/03/2024 18:37:06 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
