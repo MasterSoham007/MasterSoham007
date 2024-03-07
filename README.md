@@ -6,8 +6,6 @@
   <h2>An Artificial Intelligence and Machine Learning Undergrad from India 🇮🇳</h2>
 </div>
 
-## Profile Views  ![visitors](https://visitor-badge.glitch.me/badge?page_id=MasterSoham007.MasterSoham007)
-
 <div style="border: 2px solid black; padding: 10px; margin: 20px;">
   <div style="border-bottom: 1px solid black; padding-bottom: 10px;">
     <h3 style="text-align: center;">About Me</h3>
@@ -33,6 +31,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MasterSoham007&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 📊 Weekly Development Breakdown
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MasterSoham007&theme=radical&no-frame=false&no-bg=true&margin-w=4)
