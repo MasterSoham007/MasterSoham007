@@ -1,6 +1,10 @@
 <!-- Adjusted height of the image -->
 
-<img src="https://y.yarn.co/9782916e-0d4f-4a3a-a799-609bfbb34293_text.gif" alt="Your GIF" align = "centre" style="width: 300%; max-width: 300%; height: 600px;">
+<div style="text-align: center;">
+  <div style="display: inline-block;">
+    <img src="https://y.yarn.co/9782916e-0d4f-4a3a-a799-609bfbb34293_text.gif" alt="Your GIF" style="width: 300%; max-width: 300%; height: 250px;">
+  </div>
+</div>
 
 <div align="center">
   <h1>Hi, I am Soham Goswami 🌟</h1>
