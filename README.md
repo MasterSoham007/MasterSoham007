@@ -38,6 +38,79 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MasterSoham007&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-68-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 108.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 99 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 23 Public Repositories 
+ > 
+> 🔑 3 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                26 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+🌆 Daytime                62 commits          ████████░░░░░░░░░░░░░░░░░   33.51 % 
+🌃 Evening                44 commits          ██████░░░░░░░░░░░░░░░░░░░   23.78 % 
+🌙 Night                  53 commits          ███████░░░░░░░░░░░░░░░░░░   28.65 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   38 commits          █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
+Tuesday                  26 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+Wednesday                58 commits          ████████░░░░░░░░░░░░░░░░░   31.35 % 
+Thursday                 27 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+Friday                   17 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+Saturday                 12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+Sunday                   7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     8 repos             █████████░░░░░░░░░░░░░░░░   36.36 % 
+Jupyter Notebook         5 repos             ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
+JavaScript               4 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+Java                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/MasterSoham007/MasterSoham007/main/assets/bar_graph.png)
+
+
+ Last Updated on 07/03/2024 12:16:27 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
