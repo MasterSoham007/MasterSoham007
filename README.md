@@ -13,17 +13,6 @@
   <h2>An Artificial Intelligence and Machine Learning Undergrad from India 🇮🇳</h2>
 </div>
 
-<style>
-  @keyframes entryAnimation {
-    0% { opacity: 0; transform: translateY(-50px); }
-    100% { opacity: 1; transform: translateY(0); }
-  }
-  .entry {
-    animation: entryAnimation 1s ease forwards;
-  }
-</style>
-
-
 
 <div style="border: 2px solid black; padding: 10px; margin: 20px;">
   <div style="border-bottom: 1px solid black; padding-bottom: 10px;">
