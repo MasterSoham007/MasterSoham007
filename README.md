@@ -1,10 +1,12 @@
 <!-- Adjusted height of the image -->
 
 <div style="text-align: center;">
-  <div style="display: inline-block;">
-    <img src="https://y.yarn.co/9782916e-0d4f-4a3a-a799-609bfbb34293_text.gif" alt="Your GIF" style="width: 300%; max-width: 300%; height: 250px;">
+  <div class="div-for-image" style="display: inline-block; margin: 0 auto;">
+    <img src="https://y.yarn.co/9782916e-0d4f-4a3a-a799-609bfbb34293_text.gif" alt="Your GIF" style="width: 400%; max-width: 400%; height: 500px;">
   </div>
 </div>
+
+
 
 <div align="center">
   <h1>Hi, I am Soham Goswami 🌟</h1>
@@ -35,9 +37,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MasterSoham007&theme=chartreuse-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MasterSoham007&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- ## 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
-<!-- END_SECTION:waka --> -->
+<!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MasterSoham007&theme=radical&no-frame=false&no-bg=true&margin-w=4)
