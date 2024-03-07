@@ -1,5 +1,5 @@
 <!-- Adjusted height of the image -->
-<img src="https://i.pinimg.com/originals/e1/c5/3e/e1c53eb9dc4c8ffccdc151618158f4cc.gif" alt="Your GIF" style="width: 500%; max-width: 500%; height: 600px;">
+<img src="https://y.yarn.co/9782916e-0d4f-4a3a-a799-609bfbb34293_text.gif" alt="Your GIF" style="width: 100%; max-width: 100%; height: 300px;">
 
 <div align="center">
   <h1>Hi, I am Soham Goswami 🌟</h1>
