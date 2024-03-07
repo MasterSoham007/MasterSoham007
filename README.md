@@ -1,6 +1,6 @@
 <!-- Adjusted height of the image -->
 
-<p align="center"> <a href="" >
+<p align="center"> <a href="https://bio.link/sohamgoswami" >
 <img src="https://i.pinimg.com/originals/d4/86/07/d486078ae62ffaa4fba99c36eba1d261.gif" > </a> </p>
 
 
