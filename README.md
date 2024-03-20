@@ -45,7 +45,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-124-blue)
 
@@ -90,20 +90,16 @@ Sunday                   15 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     9 hrs 56 mins       ██████████████████████░░░   87.24 % 
-Python                   1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Java                     10 hrs 7 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 23 mins      █████████████████████████   100.00 % 
+VS Code                  10 hrs 7 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Problem Solving          9 hrs 56 mins       ██████████████████████░░░   87.24 % 
-Machine Learning A-Z     1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+Problem Solving          10 hrs 7 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  11 hrs 23 mins      █████████████████████████   100.00 % 
+Windows                  10 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -123,7 +119,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MasterSoham007/MasterSoham007/main/assets/bar_graph.png)
 
 
- Last Updated on 19/03/2024 18:37:07 UTC
+ Last Updated on 20/03/2024 18:37:30 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
