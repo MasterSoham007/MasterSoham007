@@ -53,7 +53,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 114.2 kB Used in GitHub's Storage 
+> 📦 114.3 kB Used in GitHub's Storage 
  > 
 > 🏆 225 Contributions in the Year 2024
  > 
@@ -90,16 +90,16 @@ Sunday                   15 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     4 hrs 23 mins       █████████████████████████   100.00 % 
+Java                     3 hrs 27 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 23 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 27 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Problem Solving          4 hrs 23 mins       █████████████████████████   100.00 % 
+Problem Solving          3 hrs 27 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 23 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -119,7 +119,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/MasterSoham007/MasterSoham007/main/assets/bar_graph.png)
 
 
- Last Updated on 23/03/2024 18:37:28 UTC
+ Last Updated on 24/03/2024 18:37:26 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
